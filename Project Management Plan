@@ -1,0 +1,53 @@
+Project Management Plan: Movie Recommendation System using an algorithm which combines
+the features of KNN and Matrix Factorization with IMDB Dataset.
+
+1. Project Objectives
+Develop a movie recommendation system using KNN and Matrix Factorization algorithms.
+Train and evaluate the performance of both algorithms on the IMDB dataset.
+Compare the performance of both algorithms and recommend the best approach for deployment.
+Combine both the algorithms and develop a better and more efficient  approach.
+Design and implement a user interface for the recommendation system.
+
+2.Project Scope
+This project focuses on building a movie recommendation system with offline training and recommendation generation.
+Real-time recommendations and integration with a specific platform are not included in this scope.
+
+3. Project Deliverables:
+Jupyter Notebook or Python script containing the implementation of KNN and Matrix Factorization algorithms for movie recommendation.
+Performance evaluation report comparing the accuracy and recommendation quality of both algorithms as well as the combined algorithm.
+A basic user interface (e.g., web application) showcasing the recommendation functionality.
+Project documentation including this plan, code comments, and performance reports.
+
+4.Project Schedule:
+Milestones:
+Data acquisition, exploration, and cleaning.
+Feature engineering and pre-processing for both algorithms. 
+KNN model implementation, training, and evaluation. 
+Matrix Factorization model implementation, training, and evaluation. 
+Performance comparison and algorithm selection. 
+User interface design and implementation. 
+Testing, documentation, and finalization.
+Functional KNN model with evaluation report.
+Functional Matrix Factorization model with evaluation report.
+Selection of the recommended algorithm for deployment
+Functional user interface prototype.
+Finalized project deliverables and documentation
+
+5.Project Resources:
+Software: Python IDE (Jupyter Notebook, PyCharm), web development framework(HTML,CSS & JAVASCRIPT) for UI.
+Data: IMDB dataset.
+
+6.Project Risks and Mitigation Strategies:
+
+Risk: Data sparsity and cold start problem impacting recommendation accuracy. 
+Mitigation: Implement ensemble methods or hybrid approaches combining KNN and Matrix Factorization.
+Risk: Performance differences between algorithms making selection difficult. 
+Mitigation: Define clear evaluation metrics and conduct thorough comparison based on user needs and system goals. 
+Risk: User interface development exceeding time or resource constraints. 
+Mitigation: Start with a simple prototype and prioritize core functionalities for initial release.
+
+
+
+  
+
+
